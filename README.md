@@ -1,2 +1,2 @@
 # CODETrans_Julia
-Julia codes that were previously written in Matlab for Computational Economics lecture by prof. Eva
+Julia codes previously written in Matlab for Computational Economics lecture by Prof. Eva Carceles-Poveda from Stony Brook University
