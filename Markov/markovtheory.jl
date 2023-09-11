@@ -132,7 +132,7 @@ This file includes all Julia functions for Markov theory from graduate computati
                             end
                         end            
                     end
-                elseif me == 2 # Not finished yet...
+                elseif me == 2 # Not finished yet
                     cum = zeros(s1, s2)
                     cum[:, 1] = Trans[:, 1];
                     cum[:, 2] = sum(Trans, dims = 2);
